@@ -1,0 +1,9 @@
+{
+    "video_folder": "C:/Users/timou/Pictures/AuditoryDisruption/videos/",
+    "audio_folder": "C:/Users/timou/Pictures/AuditoryDisruption/audio/",
+    "output_folder": "C:/Users/timou/Pictures/AuditoryDisruption/outputs/",
+    "sample_rate": 22050,
+    "measurements_per_second": 10,
+
+    "effects_to_run": ["glitch_chromatic"]
+}
